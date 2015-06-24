@@ -7,14 +7,14 @@ tag plugin which allows you to embed an image stored on github pages.
 
 To install, run the following command in the root directory of hexo:
 ```
-npm install hexo-local-image --save
+npm install hexo-local-image-lazarus --save
 ```
 
 And add this plugin in your ``_config.yml``.
 
 ```
 plugins:
-  - hexo-local-image
+  - hexo-local-image-lazarus
 ```
 
 Make dir named ``images`` under source folder, And puts image in ``images`` folder.
